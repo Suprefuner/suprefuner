@@ -6,7 +6,7 @@
 💬 Ask me about: Vue, Jamstack, Building Career In Tech, Content Creation.
 ⚡ Fun fact: Love boardgame, find me on tabletop simul
 
-<h5 align="left">Find me on:</h5>
+<h4 align="left">Find me on:</h4>
 <p align="left">
 <a href="https://instagram.com/suprefuner" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="suprefuner" height="30" width="40" /></a>
 </p>
