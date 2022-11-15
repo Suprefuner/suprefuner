@@ -3,6 +3,20 @@
 
 - 🔭 I’m currently working on **Personal website**
 
+✨ I'm a frontend engineer and technical writer passionate about making the web accessible to everyone and advocating for building open and inclusive developer communities.
+
+I love sharing my knowledge with others, and I do that through content creation on my Blog and YouTube channel. I'm a GitHub Star, Media Developer Expert at Cloudinary, an Auth0 Ambassador, and Nuxt.js Ambassador. When I'm not coding, you can find me geeking about photography and exploring different ways of documenting stories using photography.
+
+GIF
+
+😄 My Pronouns: She/Her
+
+💬 Ask me about: Vue, Jamstack, Building Career In Tech, Content Creation.
+
+📫 How to reach me: @lauragift_
+
+⚡ Fun fact: I enjoy cooking and I'm known as the Mistress of Nigerian Jollof. If you don't know what that is check it out here
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/suprefuner" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="suprefuner" height="30" width="40" /></a>
